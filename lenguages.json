@@ -1,11 +1,11 @@
 ﻿{
     "lenguages":{
-        "en-US": {
-            "abbreviation": "en-US",
-            "lenguage_name": "English(United States)"
+        "english": {
+            "abbreviation": "en",
+            "lenguage_name": "English"
         },
-        "es-MX": {
-            "abbreviation": "en-MX",
+        "español": {
+            "abbreviation": "es",
             "lenguage_name": "Español"
         }
     }
