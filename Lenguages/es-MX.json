@@ -42,7 +42,7 @@
         "OperadorNoCGNat": "ENHORABUENA NO ESTAS AFECTADO POR CGNAT :-).",
         "PruebaCgNat": "Se ha iniciado la prueba CGNAT\npor favor espere..."
     },
-    "messageScrren":{
+    "messageScreen":{
         "Boton": "Aceptar"
     }
 }
