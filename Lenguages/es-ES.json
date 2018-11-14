@@ -1,0 +1,48 @@
+﻿{
+    "principalScreen": {
+        "design": {
+            "BotonConectar": "Conectar",
+            "DescargasLabel": "Descargas",
+            "EquipoSuperLabel": "Equipo Super Lan Play:\n    Retrogamer_74\n    D3fau4\n    Urferu\n    Sonny\n    Xalgovia",
+            "GuardarLogCheck": "Guardar Log",
+            "SeleccionarInterfazCheck": "Seleccionar Interfaz de red",
+            "TabAjustes": "Ajustes",
+            "TabCreditos": "Créditos",
+            "TabUtilidades": "Utilidades",
+            "TemaLabel": "Tema:",
+            "TraducedBy": ""
+        },
+        "infoMessages": {
+            "AccederPrimeroALaWeb": "Debes ACCEDER primero por la web para acreditarte.\nAutoriza el servicio hasta que te indique que puedes conectar.",
+            "DesconectarDeSwitchPrimero": "Es necesario primero desconectarse del servidor de switch.",
+            "DesconectarseDePS4Primero": "Es necesario primero desconectarse del servidor de ps4.",
+            "DesinstalaWinPacp": "Se desinstalará WinPcap para cambiarlo un un controlador mejor.",
+            "ErrorAlConectarLanPlay": "Ocurrió un error al conectar.",
+            "ErrorDescargaIntentarDeNuevo": "No se pudo descargar el archivo, por favor intente nuevamente.",
+            "ErrorLanzarLanPlay": "Ocurrió un error al lanzar lan-play.exe",
+            "ErrorValidarAcceso": "Ha ocurrido un error al validar acceso, favor de intentarlo nuevamente.",
+            "ErrorValidarConfiguracion": "Ha ocurrido un error al validar tu configuración, Favor de intentarlo nuevamente.",
+            "EstatusConectandoConServidor": "Conectando al servidor...",
+            "EstatusDescargandoLanPLay": "Descargando lan-play.exe",
+            "EstatusLanzandoLanPlay": "Lanzando lan-play...",
+            "FalloInstalación": "No se pudo instalar Npcap.exe.",
+            "InstalarNpacp": "Se instalará Npcap.",
+            "MensajeVersionBeta": "Se procederá a descargar la versión beta. Muchas gracias por apoyarnos con las pruebas :).",
+            "MensajeVersionNormal": "Se procederá a descargar la versión estable. Esperamos que pronto nos apoyes de nuevo :)."
+        }
+    },
+    "banInfoMessages": {
+        "SuperBan": "Fuiste baneado permanentemente de los servicios de Super Lan play.",
+        "TemporalBan": "Fuiste baneado temporalmente, ingresa al dashboard para mas información."
+    },
+    "CGNAT-screen":{
+        "BotonIniciar": "Iniciar",
+        "BotonVolver": "Volver",
+        "OperadorConCGNat": "TU OPERADOR ISP USA CGNAT Y ESTAS AFECTADO. :-( PUEDE QUE EN OCASIONES TE FUNCIONE SUPER-LAN-PLAY Y EN OTRAS NO.",
+        "OperadorNoCGNat": "ENHORABUENA NO ESTAS AFECTADO POR CGNAT :-).",
+        "PruebaCgNat": "Se ha iniciado la prueba CGNAT\npor favor espere..."
+    },
+    "messageScrren":{
+        "Boton": "Aceptar"
+    }
+}
