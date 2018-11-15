@@ -2,7 +2,7 @@
     "principalScreen": {
         "design": {
             "BotonConectar": "Conectar",
-            "DescargasLabel": "Descargas",
+            "BotonDesconectar": "Desconectar",
             "EquipoSuperLabel": "Equipo Super Lan Play:\n    Retrogamer_74\n    D3fau4\n    Urferu\n    Sonny\n    Xalgovia",
             "GuardarLogCheck": "Guardar Log",
             "SeleccionarInterfazCheck": "Seleccionar Interfaz de red",

@@ -2,6 +2,7 @@
     "principalScreen": {
         "design": {
             "BotonConectar": "Connect",
+            "BotonDesconectar": "Disconnect",
             "DescargasLabel": "Downloads",
             "EquipoSuperLabel": "Super Lan Play Team:\n    Retrogamer_74\n    D3fau4\n    Urferu\n    Sonny\n    Xalgovia",
             "GuardarLogCheck": "Save Log",
